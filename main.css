@@ -1,0 +1,29 @@
+body{
+    font-family: arial;
+    background-color: #595547;
+    color: white;
+}
+.h{
+    color: yellow;
+}
+.b{
+    color: red;
+    text-decoration-line: underline;
+}
+.c{
+    color: #9FC2F8;
+    font-size: 5vh;
+}
+h2{
+    color: #9FC2F8;  
+}
+.d{
+    width: 60px;
+    height: 30px;
+}
+.img{
+    height:250px;
+}
+span{
+    font-style: italic;
+}
